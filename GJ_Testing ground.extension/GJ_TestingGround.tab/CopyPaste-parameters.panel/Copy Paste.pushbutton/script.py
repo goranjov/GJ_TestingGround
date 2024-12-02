@@ -28,7 +28,7 @@ for panel in curtain_panels:
     height_param = panel.LookupParameter('Height')
     if height_param:
         height_value = height_param.AsValueString()
-        if not (height_value.endswith('5') or height_value.endswith('0') or height_value.endswith('0.1')):
+        if not (height_value.endswith('0') or height_value.endswith('0.1')):
             comments_to_add.append('CHECK HEIGHT')
 
     # Check width parameter
