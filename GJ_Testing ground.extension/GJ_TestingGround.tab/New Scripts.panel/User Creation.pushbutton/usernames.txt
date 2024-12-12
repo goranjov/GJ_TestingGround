@@ -5,15 +5,16 @@ ARCH_Maja Vasilev
 ARCH_Bojana Dojcinovic Krstanic 
 ARCH_Nemanja Stamenkovic
 ARCH_Mila Joksimovic
+ARCH_Tamara Kenic
 BIM_Goran Jovic
 BIM_Aleksandar Stefanovic
 BIM_Katarina Brankovic
 BIM_Jovan Jovanovic
-BIM_Jovana Uroševic
+BIM_Jovana Urosevic
 BIM_Aleksandra Vujic
 BIM_Andjelka Radisavljevic
 HVAC_Aleksa Gostiljac
-HVAC_Milan Vukašinovic
+HVAC_Milan Vukasinovic
 HVAC_Ivana Martinovic
 HVAC_Jelena Terzic
 HVAC_Maja Ljiljak
