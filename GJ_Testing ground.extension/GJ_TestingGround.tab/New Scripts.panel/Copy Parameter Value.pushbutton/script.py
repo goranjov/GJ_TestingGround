@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 __title__ = 'Copy Parameter Values'
-__author__ = 'Assistant'
-__doc__ = 'Copies parameter values from one parameter to another for selected elements with enhanced UI and error handling.'
+__author__ = 'Goran Jovic'
+__doc__ = 'Copies parameter values from one parameter to another for selected elements'
 
 import clr
 import sys
